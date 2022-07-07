@@ -22,3 +22,5 @@ print()
 print(favorite_things)
 
 # print(full_name, preferred_nickname, age, python_experience, "\n", "]\n", favorite_hobbies, "\n", "\n", favorite_things)
+
+all_vars = dict(vars())
